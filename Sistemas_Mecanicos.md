@@ -21,16 +21,25 @@ El sistema masa-resorte-amortiguador es un modelo fundamental en control o dinam
 
 ![Captura de pantalla 2024-09-18 002051](https://github.com/user-attachments/assets/a776c23b-8b11-439d-ab1c-3a530646ce1d)
 
-$F_{R} = k_{2} * X --> Ley de Hooke$
+- $F_{R} = k_{2} * X →  Ley de Hooke$
 
-$F_{F} = k_{1} * V_{m} --> Fricción viscosa$
+- $F_{F} = k_{1} * V_{m} →  Fricción viscosa$
 
-$F = m * a --> Leyes de Newton$
+- $F = m * a →  Leyes de Newton$
 
 ### 1.2. Modelamiento en sistemas mecanicos
 ## Diagramas de cuerpo libre
 Un diagrama que muestra las fuerzas que actúan sobre el objeto. El objeto se representa mediante un punto con fuerzas dibujadas como flechas que apuntan en dirección opuesta al punto. A veces llamado diagrama de fuerza.
 
+#### Ejemplo:
+
 ![Captura de pantalla 2024-09-18 002051](https://github.com/user-attachments/assets/a776c23b-8b11-439d-ab1c-3a530646ce1d)
 
+Diagrama de cuerpo libre:
+
+![Captura de pantalla 2024-09-18 003035](https://github.com/user-attachments/assets/b2e0302b-e8fa-4a45-a797-2e0f6d824ab8)
+
+$$ u - F_{R} - F_{F} = m * a $$
+
+## Ejercicios
 
