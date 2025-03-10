@@ -10,7 +10,7 @@ $$ Tasa de acumulación \frac{Masa}{Energia} = Flujo \frac{Masa}{Energia} Entrad
 ## 1. Sistemas Mecanicos
 Un sistema mecánico es un conjunto de elementos físicos interconectados que interactúan mediante fuerzas y movimientos para realizar una función específica. Estos sistemas pueden estar compuestos por componentes como engranajes, palancas, resortes, masas, amortiguadores y mecanismos de transmisión de movimiento.
 
-### 1.1 Sistemas Masa - Resorte - Amortiguador
+### 1.1. Sistemas Masa - Resorte - Amortiguador
 El sistema masa-resorte-amortiguador es un modelo fundamental en control o dinamica de sistemas mecánicos y se utiliza para describir el comportamiento de estructuras sometidas a vibraciones. Este sistema consta de tres elementos principales:
 
 - Masa (m): Es el objeto que se mueve, puede ser cualquier cosa con peso, como un bloque, un coche o una persona en un columpio.
@@ -18,3 +18,19 @@ El sistema masa-resorte-amortiguador es un modelo fundamental en control o dinam
 - Resorte (k): Es un elemento que almacena y libera energía. Cuando se estira o comprime, intenta volver a su posición original. Cuanto más rígido sea, más fuerte será la fuerza que ejerce.
 
 - Amortiguador (c): Es un componente que reduce el movimiento al disipar energía. Funciona como un freno que impide que el sistema siga oscilando demasiado tiempo.
+
+![Captura de pantalla 2024-09-18 002051](https://github.com/user-attachments/assets/a776c23b-8b11-439d-ab1c-3a530646ce1d)
+
+$F_{R} = k_{2} * X --> Ley de Hooke$
+
+$F_{F} = k_{1} * V_{m} --> Fricción viscosa$
+
+$F = m * a --> Leyes de Newton$
+
+### 1.2. Modelamiento en sistemas mecanicos
+## Diagramas de cuerpo libre
+Un diagrama que muestra las fuerzas que actúan sobre el objeto. El objeto se representa mediante un punto con fuerzas dibujadas como flechas que apuntan en dirección opuesta al punto. A veces llamado diagrama de fuerza.
+
+![Captura de pantalla 2024-09-18 002051](https://github.com/user-attachments/assets/a776c23b-8b11-439d-ab1c-3a530646ce1d)
+
+
