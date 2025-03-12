@@ -37,9 +37,16 @@ Un diagrama que muestra las fuerzas que actúan sobre el objeto. El objeto se re
 
 Diagrama de cuerpo libre:
 
-![Captura de pantalla 2024-09-18 003035](https://github.com/user-attachments/assets/b2e0302b-e8fa-4a45-a797-2e0f6d824ab8)
-
 $$ u - F_{R} - F_{F} = m * a $$
 
 ## Ejercicios
 
+1. Resuelva
+
+![image](https://github.com/user-attachments/assets/20977599-204a-4039-b169-4e0e4de194f7)
+
+Diagrama de cuerpo libre
+
+![Captura de pantalla 2025-03-11 225344](https://github.com/user-attachments/assets/277d82e7-cb4b-4290-a942-bd008b679e40)
+
+$$ - c \dot{x} - kx + F = m \ddot{x} $$
