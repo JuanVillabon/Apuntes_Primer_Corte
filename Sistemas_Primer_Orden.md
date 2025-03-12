@@ -215,5 +215,5 @@ $$ m = \frac{4𝜏AK - 3𝜏AK}{5𝜏 - 4𝜏} = AK $$
 
 ![image](https://github.com/user-attachments/assets/c21a23f6-9b44-472d-adc0-85814e4557e8)
 
-$$ y(t) = \frac{AK}{𝜏} e^{-\frac{t}{𝜏} $$
+$$ y(t) = \frac{AK}{𝜏} e^{-\frac{t}{𝜏}} $$
 
