@@ -55,8 +55,3 @@ La conversión entre movimiento translacional (cuando un objeto se mueve en lín
 - *Mecanismo Banda - Polea:* El mecanismo de banda y polea es un sistema utilizado para transmitir movimiento y fuerza entre dos o más ejes separados. Se usa en muchos sistemas mecánicos, como cintas transportadoras, motores de autos y máquinas industriales.
 
 ![image](https://github.com/user-attachments/assets/efbc94b1-13f4-409a-93c5-cfb6118b0542)
-
-# *Ejercicios:*
-
-
-
