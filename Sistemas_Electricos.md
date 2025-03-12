@@ -28,7 +28,7 @@ Carga de un Inductor
 
 $$ v(t) = L \frac{di(t)}{dt} $$
 
-- *Ejemplo con ley de Kirchoff*
+- *Ejercicio con ley de Kirchoff*
 
 ![image](https://github.com/user-attachments/assets/fec43beb-dfe9-41d8-a6ae-eb1c5e5246e0)
 
@@ -50,7 +50,7 @@ $$ -u(t) + RC \frac{dy(t)}{dt} + LC \frac{d^{2}y(t)}{dt^{t}} + y(t) = 0 $$
 
 Un nodo es la conexión que se genera entre dos o más ramas. Ese punto de conexión puede estar formado por la conexión de los elementos, y también puede formarse por un corto circuito, es decir, un alambre de conexión.
 
-- *Ejemplo aplicando Nodos*
+- *Ejercicio aplicando Nodos*
 
 ![image](https://github.com/user-attachments/assets/2c34be11-285b-4d22-aacc-0e2c4e6e47d9)
 
